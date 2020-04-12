@@ -15,4 +15,4 @@ TypeScript React task mate app demonstrating usage of React together with TypeSc
 3. Run for local development `npm run dev`
 
 
-## Link to graphql is on http://localhost:3001/graphql
+## Link to graphql is on http://localhost:3001/graphql once you run the api project and for local react development is on http://localhost:3000 .
