@@ -13,3 +13,6 @@ TypeScript React task mate app demonstrating usage of React together with TypeSc
 1. Run `npm i`
 2. Run for production `npm run build` and then `npm start`
 3. Run for local development `npm run dev`
+
+
+## Link to graphql is on http://localhost:3001/graphql
