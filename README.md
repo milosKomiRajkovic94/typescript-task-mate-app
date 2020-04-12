@@ -6,8 +6,8 @@ TypeScript React task mate app demonstrating usage of React together with TypeSc
 
 ### 1. Inside /api do the following actions using terminal:
 1. Run `npm i`
-2. Run for production `npm run build`
-3. Run for local development `npm run start:dev`
+2. Run `npm run build`
+3. Run `npm run start:dev`
 
 ### 2. Inside /ui do the following actions using terminal:
 1. Run `npm i`
