@@ -1,0 +1,17 @@
+import React from 'react';
+import { NextPage } from 'next';
+import {useRouter} from 'next/router';
+import { withApollo } from '../../lib/apollo';
+
+
+const UpdatePage: NextPage = () => {
+    const router = useRouter();
+    const { id } = router.query;
+    return(
+        <>
+            Update {id}
+        </>
+    )
+}
+
+export default withApollo(UpdatePage);
